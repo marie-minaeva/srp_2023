@@ -1,0 +1,29 @@
+
+output path : /var/www/GEMME/jobs/rjGH4rph/sp doesn't exists !
+Creating output path: /var/www/GEMME/jobs/rjGH4rph/sp
+
+******** basic JET ***********
+J
+******** Iterative JET ***********
+******** generate PDB Results ***********
+******** End generate PDB Results ***********
+[1] "running independent model..."
+[1] "done"
+[1] "running global epistatic model..."
+[1] "done"
+[1] "running combined model..."
+[1] "done"
+[1] "generating the plots..."
+                  1% 
+0.0000 1.0000 0.7431 
+                 1%           
+-1.000000  5.427559  7.000000 
+                 1%           
+-1.000000  4.504313  7.000000 
+[1] "done"
+query protein: sp
+computing conservation levels...
+20000
+java -Xmx1000m -cp $JET_PATH:$JET_PATH/jet/extLibs/vecmath.jar jet.JET -c default.conf -i sp.pdb -o `pwd` -p J -r input -f sp_A.fasta -d chain -n 2 > sp.out
+done
+Rscript --save $GEMME_PATH/computePred.R sp DRD3_1e-30ali.fasta TRUE none
