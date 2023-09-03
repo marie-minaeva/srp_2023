@@ -1,0 +1,63 @@
+***** Format Files ******
+copy file:/crex/proj/lappalainen_lab1/users/marii/srp_2023/ADRB2/1e-3/sp/sp.pdb
+***** End Format Files ******
+***** JET analysis ******
+Alignment file:/crex/proj/lappalainen_lab1/users/marii/srp_2023/ADRB2/1e-3/sp/sp_A.fasta
+Analysis of sequence: A
+format ok
+Selected 1683 sequences before filtering
+Filtering sequences (Iteration 1):
+  -Identity: Removed 0 seqs
+  -Redundancy: Removed 0 seqs
+  -Similar names: Removed 0 seqs
+  -Gaps: Removed 0 seqs
+  -Length: Removed 0 seqs
+  -EValue: Removed 0 seqs
+  -CPU Load: Removed 0 seqs
+Selected 1683 after filtering
+Filtering sequences (Iteration 2):
+  -Identity: Removed 1651 seqs
+  -Redundancy: Removed 0 seqs
+  -Similar names: Removed 0 seqs
+  -Gaps: Removed 0 seqs
+  -Length: Removed 0 seqs
+  -EValue: Removed 0 seqs
+  -CPU Load: Removed 0 seqs
+Selected 32 after filtering
+Nb alignments:10 Nb sequences:10
+Final iterated blast partition:22 1 3 6
+proportion=0.5
+selected partition: 6 0 1 3
+**********write**********
+Command: /usr/bin/muscle -in /crex/proj/lappalainen_lab1/users/marii/srp_2023/ADRB2/1e-3/sp/sp_0.fasta -clw -out /crex/proj/lappalainen_lab1/users/marii/srp_2023/ADRB2/1e-3/sp/sp_0.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /crex/proj/lappalainen_lab1/users/marii/srp_2023/ADRB2/1e-3/sp/sp_1.fasta -clw -out /crex/proj/lappalainen_lab1/users/marii/srp_2023/ADRB2/1e-3/sp/sp_1.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /crex/proj/lappalainen_lab1/users/marii/srp_2023/ADRB2/1e-3/sp/sp_2.fasta -clw -out /crex/proj/lappalainen_lab1/users/marii/srp_2023/ADRB2/1e-3/sp/sp_2.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /crex/proj/lappalainen_lab1/users/marii/srp_2023/ADRB2/1e-3/sp/sp_3.fasta -clw -out /crex/proj/lappalainen_lab1/users/marii/srp_2023/ADRB2/1e-3/sp/sp_3.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /crex/proj/lappalainen_lab1/users/marii/srp_2023/ADRB2/1e-3/sp/sp_4.fasta -clw -out /crex/proj/lappalainen_lab1/users/marii/srp_2023/ADRB2/1e-3/sp/sp_4.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /crex/proj/lappalainen_lab1/users/marii/srp_2023/ADRB2/1e-3/sp/sp_5.fasta -clw -out /crex/proj/lappalainen_lab1/users/marii/srp_2023/ADRB2/1e-3/sp/sp_5.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /crex/proj/lappalainen_lab1/users/marii/srp_2023/ADRB2/1e-3/sp/sp_6.fasta -clw -out /crex/proj/lappalainen_lab1/users/marii/srp_2023/ADRB2/1e-3/sp/sp_6.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /crex/proj/lappalainen_lab1/users/marii/srp_2023/ADRB2/1e-3/sp/sp_7.fasta -clw -out /crex/proj/lappalainen_lab1/users/marii/srp_2023/ADRB2/1e-3/sp/sp_7.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /crex/proj/lappalainen_lab1/users/marii/srp_2023/ADRB2/1e-3/sp/sp_8.fasta -clw -out /crex/proj/lappalainen_lab1/users/marii/srp_2023/ADRB2/1e-3/sp/sp_8.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /crex/proj/lappalainen_lab1/users/marii/srp_2023/ADRB2/1e-3/sp/sp_9.fasta -clw -out /crex/proj/lappalainen_lab1/users/marii/srp_2023/ADRB2/1e-3/sp/sp_9.aln
+Exit value: 0
+
+
+***** End JET analysis ******
