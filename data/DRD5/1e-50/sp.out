@@ -1,0 +1,174 @@
+***** Format Files ******
+copy file:/crex/proj/lappalainen_lab1/users/marii/srp_2023/DRD5/1e-50/sp/sp.pdb
+***** End Format Files ******
+***** JET analysis ******
+Alignment file:/crex/proj/lappalainen_lab1/users/marii/srp_2023/DRD5/1e-50/sp/sp_A.fasta
+Analysis of sequence: A
+format ok
+Selected 1347 sequences before filtering
+Filtering sequences (Iteration 1):
+  -Identity: Removed 0 seqs
+  -Redundancy: Removed 0 seqs
+  -Similar names: Removed 0 seqs
+  -Gaps: Removed 0 seqs
+  -Length: Removed 0 seqs
+  -EValue: Removed 0 seqs
+  -CPU Load: Removed 0 seqs
+Selected 1347 after filtering
+Filtering sequences (Iteration 2):
+  -Identity: Removed 860 seqs
+  -Redundancy: Removed 0 seqs
+  -Similar names: Removed 0 seqs
+  -Gaps: Removed 0 seqs
+  -Length: Removed 0 seqs
+  -EValue: Removed 0 seqs
+  -CPU Load: Removed 0 seqs
+Selected 487 after filtering
+Nb alignments:22 Nb sequences:22
+Final iterated blast partition:427 54 6 0
+proportion=0.5
+selected partition: 10 9 3 0
+**********write**********
+Command: /usr/local/bin/muscle3.8.31_i86linux64 -in /crex/proj/lappalainen_lab1/users/marii/srp_2023/DRD5/1e-50/sp/sp_0.fasta -clw -out /crex/proj/lappalainen_lab1/users/marii/srp_2023/DRD5/1e-50/sp/sp_0.aln
+**********write**********
+Command: /usr/local/bin/muscle3.8.31_i86linux64 -in /crex/proj/lappalainen_lab1/users/marii/srp_2023/DRD5/1e-50/sp/sp_1.fasta -clw -out /crex/proj/lappalainen_lab1/users/marii/srp_2023/DRD5/1e-50/sp/sp_1.aln
+**********write**********
+Command: /usr/local/bin/muscle3.8.31_i86linux64 -in /crex/proj/lappalainen_lab1/users/marii/srp_2023/DRD5/1e-50/sp/sp_2.fasta -clw -out /crex/proj/lappalainen_lab1/users/marii/srp_2023/DRD5/1e-50/sp/sp_2.aln
+**********write**********
+Command: /usr/local/bin/muscle3.8.31_i86linux64 -in /crex/proj/lappalainen_lab1/users/marii/srp_2023/DRD5/1e-50/sp/sp_3.fasta -clw -out /crex/proj/lappalainen_lab1/users/marii/srp_2023/DRD5/1e-50/sp/sp_3.aln
+**********write**********
+Command: /usr/local/bin/muscle3.8.31_i86linux64 -in /crex/proj/lappalainen_lab1/users/marii/srp_2023/DRD5/1e-50/sp/sp_4.fasta -clw -out /crex/proj/lappalainen_lab1/users/marii/srp_2023/DRD5/1e-50/sp/sp_4.aln
+**********write**********
+Command: /usr/local/bin/muscle3.8.31_i86linux64 -in /crex/proj/lappalainen_lab1/users/marii/srp_2023/DRD5/1e-50/sp/sp_5.fasta -clw -out /crex/proj/lappalainen_lab1/users/marii/srp_2023/DRD5/1e-50/sp/sp_5.aln
+**********write**********
+Command: /usr/local/bin/muscle3.8.31_i86linux64 -in /crex/proj/lappalainen_lab1/users/marii/srp_2023/DRD5/1e-50/sp/sp_6.fasta -clw -out /crex/proj/lappalainen_lab1/users/marii/srp_2023/DRD5/1e-50/sp/sp_6.aln
+**********write**********
+Command: /usr/local/bin/muscle3.8.31_i86linux64 -in /crex/proj/lappalainen_lab1/users/marii/srp_2023/DRD5/1e-50/sp/sp_7.fasta -clw -out /crex/proj/lappalainen_lab1/users/marii/srp_2023/DRD5/1e-50/sp/sp_7.aln
+**********write**********
+Command: /usr/local/bin/muscle3.8.31_i86linux64 -in /crex/proj/lappalainen_lab1/users/marii/srp_2023/DRD5/1e-50/sp/sp_8.fasta -clw -out /crex/proj/lappalainen_lab1/users/marii/srp_2023/DRD5/1e-50/sp/sp_8.aln
+**********write**********
+Command: /usr/local/bin/muscle3.8.31_i86linux64 -in /crex/proj/lappalainen_lab1/users/marii/srp_2023/DRD5/1e-50/sp/sp_9.fasta -clw -out /crex/proj/lappalainen_lab1/users/marii/srp_2023/DRD5/1e-50/sp/sp_9.aln
+**********write**********
+Command: /usr/local/bin/muscle3.8.31_i86linux64 -in /crex/proj/lappalainen_lab1/users/marii/srp_2023/DRD5/1e-50/sp/sp_10.fasta -clw -out /crex/proj/lappalainen_lab1/users/marii/srp_2023/DRD5/1e-50/sp/sp_10.aln
+**********write**********
+Command: /usr/local/bin/muscle3.8.31_i86linux64 -in /crex/proj/lappalainen_lab1/users/marii/srp_2023/DRD5/1e-50/sp/sp_11.fasta -clw -out /crex/proj/lappalainen_lab1/users/marii/srp_2023/DRD5/1e-50/sp/sp_11.aln
+**********write**********
+Command: /usr/local/bin/muscle3.8.31_i86linux64 -in /crex/proj/lappalainen_lab1/users/marii/srp_2023/DRD5/1e-50/sp/sp_12.fasta -clw -out /crex/proj/lappalainen_lab1/users/marii/srp_2023/DRD5/1e-50/sp/sp_12.aln
+**********write**********
+Command: /usr/local/bin/muscle3.8.31_i86linux64 -in /crex/proj/lappalainen_lab1/users/marii/srp_2023/DRD5/1e-50/sp/sp_13.fasta -clw -out /crex/proj/lappalainen_lab1/users/marii/srp_2023/DRD5/1e-50/sp/sp_13.aln
+**********write**********
+Command: /usr/local/bin/muscle3.8.31_i86linux64 -in /crex/proj/lappalainen_lab1/users/marii/srp_2023/DRD5/1e-50/sp/sp_14.fasta -clw -out /crex/proj/lappalainen_lab1/users/marii/srp_2023/DRD5/1e-50/sp/sp_14.aln
+**********write**********
+Command: /usr/local/bin/muscle3.8.31_i86linux64 -in /crex/proj/lappalainen_lab1/users/marii/srp_2023/DRD5/1e-50/sp/sp_15.fasta -clw -out /crex/proj/lappalainen_lab1/users/marii/srp_2023/DRD5/1e-50/sp/sp_15.aln
+**********write**********
+Command: /usr/local/bin/muscle3.8.31_i86linux64 -in /crex/proj/lappalainen_lab1/users/marii/srp_2023/DRD5/1e-50/sp/sp_16.fasta -clw -out /crex/proj/lappalainen_lab1/users/marii/srp_2023/DRD5/1e-50/sp/sp_16.aln
+**********write**********
+Command: /usr/local/bin/muscle3.8.31_i86linux64 -in /crex/proj/lappalainen_lab1/users/marii/srp_2023/DRD5/1e-50/sp/sp_17.fasta -clw -out /crex/proj/lappalainen_lab1/users/marii/srp_2023/DRD5/1e-50/sp/sp_17.aln
+**********write**********
+Command: /usr/local/bin/muscle3.8.31_i86linux64 -in /crex/proj/lappalainen_lab1/users/marii/srp_2023/DRD5/1e-50/sp/sp_18.fasta -clw -out /crex/proj/lappalainen_lab1/users/marii/srp_2023/DRD5/1e-50/sp/sp_18.aln
+**********write**********
+Command: /usr/local/bin/muscle3.8.31_i86linux64 -in /crex/proj/lappalainen_lab1/users/marii/srp_2023/DRD5/1e-50/sp/sp_19.fasta -clw -out /crex/proj/lappalainen_lab1/users/marii/srp_2023/DRD5/1e-50/sp/sp_19.aln
+**********write**********
+Command: /usr/local/bin/muscle3.8.31_i86linux64 -in /crex/proj/lappalainen_lab1/users/marii/srp_2023/DRD5/1e-50/sp/sp_20.fasta -clw -out /crex/proj/lappalainen_lab1/users/marii/srp_2023/DRD5/1e-50/sp/sp_20.aln
+**********write**********
+Command: /usr/local/bin/muscle3.8.31_i86linux64 -in /crex/proj/lappalainen_lab1/users/marii/srp_2023/DRD5/1e-50/sp/sp_21.fasta -clw -out /crex/proj/lappalainen_lab1/users/marii/srp_2023/DRD5/1e-50/sp/sp_21.aln
+
+Unable to generate tree with /opt/JET2/matrix/blosum62 matrix for alignment 0
+Trying to generate tree with /opt/JET2/matrix/gonnet matrix
+Unable to generate tree with /opt/JET2/matrix/gonnet matrix for alignment 0
+Trying to generate tree with /opt/JET2/matrix/hsdm matrix
+Unable to generate tree with /opt/JET2/matrix/hsdm matrix for alignment 0
+nb bad Alignement :1
+Unable to generate tree with /opt/JET2/matrix/blosum62 matrix for alignment 1
+Trying to generate tree with /opt/JET2/matrix/gonnet matrix
+Unable to generate tree with /opt/JET2/matrix/gonnet matrix for alignment 1
+Trying to generate tree with /opt/JET2/matrix/hsdm matrix
+Unable to generate tree with /opt/JET2/matrix/hsdm matrix for alignment 1
+nb bad Alignement :2
+Unable to generate tree with /opt/JET2/matrix/blosum62 matrix for alignment 2
+Trying to generate tree with /opt/JET2/matrix/gonnet matrix
+Unable to generate tree with /opt/JET2/matrix/gonnet matrix for alignment 2
+Trying to generate tree with /opt/JET2/matrix/hsdm matrix
+Unable to generate tree with /opt/JET2/matrix/hsdm matrix for alignment 2
+nb bad Alignement :3
+Unable to generate tree with /opt/JET2/matrix/blosum62 matrix for alignment 3
+Trying to generate tree with /opt/JET2/matrix/gonnet matrix
+Unable to generate tree with /opt/JET2/matrix/gonnet matrix for alignment 3
+Trying to generate tree with /opt/JET2/matrix/hsdm matrix
+Unable to generate tree with /opt/JET2/matrix/hsdm matrix for alignment 3
+nb bad Alignement :4
+Unable to generate tree with /opt/JET2/matrix/blosum62 matrix for alignment 4
+Trying to generate tree with /opt/JET2/matrix/gonnet matrix
+Unable to generate tree with /opt/JET2/matrix/gonnet matrix for alignment 4
+Trying to generate tree with /opt/JET2/matrix/hsdm matrix
+Unable to generate tree with /opt/JET2/matrix/hsdm matrix for alignment 4
+nb bad Alignement :5
+Unable to generate tree with /opt/JET2/matrix/blosum62 matrix for alignment 5
+Trying to generate tree with /opt/JET2/matrix/gonnet matrix
+Unable to generate tree with /opt/JET2/matrix/gonnet matrix for alignment 5
+Trying to generate tree with /opt/JET2/matrix/hsdm matrix
+Unable to generate tree with /opt/JET2/matrix/hsdm matrix for alignment 5
+nb bad Alignement :6
+Unable to generate tree with /opt/JET2/matrix/blosum62 matrix for alignment 6
+Trying to generate tree with /opt/JET2/matrix/gonnet matrix
+Unable to generate tree with /opt/JET2/matrix/gonnet matrix for alignment 6
+Trying to generate tree with /opt/JET2/matrix/hsdm matrix
+Unable to generate tree with /opt/JET2/matrix/hsdm matrix for alignment 6
+nb bad Alignement :7
+Unable to generate tree with /opt/JET2/matrix/blosum62 matrix for alignment 7
+Trying to generate tree with /opt/JET2/matrix/gonnet matrix
+Unable to generate tree with /opt/JET2/matrix/gonnet matrix for alignment 7
+Trying to generate tree with /opt/JET2/matrix/hsdm matrix
+Unable to generate tree with /opt/JET2/matrix/hsdm matrix for alignment 7
+nb bad Alignement :8
+Unable to generate tree with /opt/JET2/matrix/blosum62 matrix for alignment 8
+Trying to generate tree with /opt/JET2/matrix/gonnet matrix
+Unable to generate tree with /opt/JET2/matrix/gonnet matrix for alignment 8
+Trying to generate tree with /opt/JET2/matrix/hsdm matrix
+Unable to generate tree with /opt/JET2/matrix/hsdm matrix for alignment 8
+nb bad Alignement :9
+Unable to generate tree with /opt/JET2/matrix/blosum62 matrix for alignment 9
+Trying to generate tree with /opt/JET2/matrix/gonnet matrix
+Unable to generate tree with /opt/JET2/matrix/gonnet matrix for alignment 9
+Trying to generate tree with /opt/JET2/matrix/hsdm matrix
+Unable to generate tree with /opt/JET2/matrix/hsdm matrix for alignment 9
+nb bad Alignement :10
+Unable to generate tree with /opt/JET2/matrix/blosum62 matrix for alignment 10
+Trying to generate tree with /opt/JET2/matrix/gonnet matrix
+Unable to generate tree with /opt/JET2/matrix/gonnet matrix for alignment 10
+Trying to generate tree with /opt/JET2/matrix/hsdm matrix
+Unable to generate tree with /opt/JET2/matrix/hsdm matrix for alignment 10
+nb bad Alignement :11
+Unable to generate tree with /opt/JET2/matrix/blosum62 matrix for alignment 11
+Trying to generate tree with /opt/JET2/matrix/gonnet matrix
+Unable to generate tree with /opt/JET2/matrix/gonnet matrix for alignment 11
+Trying to generate tree with /opt/JET2/matrix/hsdm matrix
+Unable to generate tree with /opt/JET2/matrix/hsdm matrix for alignment 11
+nb bad Alignement :12
+Unable to generate tree with /opt/JET2/matrix/blosum62 matrix for alignment 12
+Trying to generate tree with /opt/JET2/matrix/gonnet matrix
+Unable to generate tree with /opt/JET2/matrix/gonnet matrix for alignment 12
+Trying to generate tree with /opt/JET2/matrix/hsdm matrix
+Unable to generate tree with /opt/JET2/matrix/hsdm matrix for alignment 12
+nb bad Alignement :13
+Unable to generate tree with /opt/JET2/matrix/blosum62 matrix for alignment 13
+Trying to generate tree with /opt/JET2/matrix/gonnet matrix
+Unable to generate tree with /opt/JET2/matrix/gonnet matrix for alignment 13
+Trying to generate tree with /opt/JET2/matrix/hsdm matrix
+Unable to generate tree with /opt/JET2/matrix/hsdm matrix for alignment 13
+nb bad Alignement :14
+Unable to generate tree with /opt/JET2/matrix/blosum62 matrix for alignment 14
+Trying to generate tree with /opt/JET2/matrix/gonnet matrix
+Unable to generate tree with /opt/JET2/matrix/gonnet matrix for alignment 14
+Trying to generate tree with /opt/JET2/matrix/hsdm matrix
+Unable to generate tree with /opt/JET2/matrix/hsdm matrix for alignment 14
+nb bad Alignement :15
+Unable to generate tree with /opt/JET2/matrix/blosum62 matrix for alignment 15
+Trying to generate tree with /opt/JET2/matrix/gonnet matrix
+Unable to generate tree with /opt/JET2/matrix/gonnet matrix for alignment 15
+Trying to generate tree with /opt/JET2/matrix/hsdm matrix
+Unable to generate tree with /opt/JET2/matrix/hsdm matrix for alignment 15
+nb bad Alignement :16
+Sequence A will not be analysed
+Unable to analyse A
+***** End JET analysis ******
