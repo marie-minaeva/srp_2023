@@ -11,7 +11,7 @@ do
 	mkdir $e
 	cd $e
 	echo "../ADRB2_"$e"ali.fasta"
-	singularity exec ../../gemme_gemme.sif python2.7 /opt/GEMME/gemme.py "../ADRB2_"$e"ali.fasta" -r input -f "../ADRB2_"$e"ali.fasta"
+	singularity exec ../../stockholm/gemme_gemme.sif python2.7 /opt/GEMME/gemme.py "../ADRB2_"$e"ali.fasta" -r input -f "../ADRB2_"$e"ali.fasta"
 	cd ../../
 done
 
